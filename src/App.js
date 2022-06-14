@@ -1,24 +1,26 @@
-import logo from './logo.svg';
+import {useState} from 'react';
 import './App.css';
 
 function App() {
+  console.log("Rendering App Component");
+
+  const [counter, setCounter] = useState(0);
+
+  const onClick = function() {
+    setCounter(counter + 1);
+    console.log("Button Clicked.  count = ", counter);
+  };
+
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+      <h2>Hello React</h2>
+
+      <button onClick={onClick}>Click Me</button>
+      <button onClick={() => setCounter(counter + 1)}>Click Me</button>
+      <div>counter = {counter}</div>
+
+    </div >
   );
 }
 
