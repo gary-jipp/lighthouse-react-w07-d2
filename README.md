@@ -16,11 +16,11 @@
 
 ## JSX
 
+## Props & Attributes
+
 ## Common Components
 - Button
 - Input
 - List
 
 ## State
-
-## Props & Attributes
