@@ -6,7 +6,6 @@
 - [ ] Components
 - [ ] Anatomy of a Component
 - [ ] JSX
-- [ ] Props & Attributes
-- [ ] Child Components
+- [ ] Props & Parent-Child Components
 - [ ] Controlled Components
 - [ ] React State
