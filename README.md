@@ -7,5 +7,6 @@
 - [ ] Anatomy of a Component
 - [ ] JSX
 - [ ] Props & Attributes
+- [ ] Child Components
 - [ ] Controlled Components
 - [ ] React State
