@@ -19,7 +19,10 @@
   - Attributes are props
   - className instead of class
 
-- [ ] The Props / Attributes relationship
+- [ ] Parent-Child Components & Props
+  - props as attributes / parameters
+  - props.children
+
 - [ ] Controlled Components
   - Button
   - Input
