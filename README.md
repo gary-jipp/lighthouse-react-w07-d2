@@ -19,7 +19,7 @@
   - Attributes are props
   - className instead of class
 
-- [ ] Parent-Child Components & Props
+- [ ] Props & Parent-Child Components
   - props as attributes / parameters
   - props.children
 
