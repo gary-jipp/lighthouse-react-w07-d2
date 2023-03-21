@@ -1,4 +1,4 @@
-# W07D01 - Component-Based UI w/ React
+# W07D02 - Component-Based UI w/ React
 - [ ] What is React?
 - [ ] Virtual DOM
 - [ ] Create a React app
