@@ -4,9 +4,11 @@
 - [ ] Create a React app
 - [ ] Anatomy of a React App
 - [ ] Components
-  - functional components
-  - the "App" component
-  - component re-rendering
+- [ ] Anatomy of a Component
+- [ ] JSX
+- [ ] Props & Parent-Child Components
+- [ ] Controlled Components
+- [ ] React State
 
 - [ ] Anatomy of a Component
   - component is (just) a javascript function !
